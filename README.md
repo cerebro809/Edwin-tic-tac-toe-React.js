@@ -1,9 +1,7 @@
-# Edwin-tic-tac-toe-React.js
-A simple tic tac toe game written in Reat.js where you will play against an API
-
 Welcome to Edwin's Tic-Tac-Toe project
 
-A simple Tic-Tac-Toe game built using React and Node.js You will play against an AI (api located at): https://d9u7x85vp9.execute-api.us-east-2.amazonaws.com/production/api-docs/#/
+A simple Tic-Tac-Toe game built using React and Node.js
+You will play against an AI (api located at): https://d9u7x85vp9.execute-api.us-east-2.amazonaws.com/production/api-docs/#/ 
 
 To Run...
 
